@@ -234,10 +234,10 @@ const achievements = [
   },
   {
     year: "2024",
-    title: "3rd Prize — Public Speaking",
-    event: "Lovely Professional University",
+    title: "3rd Prize — Department-Level Technical Debate",
+    event: "Department-Level Technical Debate Competition",
     detail:
-      "Won 3rd prize in a public speaking competition, showcasing strong communication and presentation skills.",
+      "Awarded 3rd Prize in the Department-Level Technical Debate Competition for delivering a rigorous, evidence-based technical argument with clarity and precision.",
   },
 ];
 
